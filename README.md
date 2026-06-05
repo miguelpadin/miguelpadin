@@ -127,13 +127,6 @@ This GitHub profile is also a place where I document experiments around:
 
 ---
 
-## 📊 GitHub Activity
-
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelpadin&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpadin&layout=compact&hide_border=true)
-
----
 
 ## 📫 Contact
 
