@@ -30,7 +30,7 @@ I like software that is easy to understand, easy to test and hard to accidentall
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-0F172A?style=for-the-badge&logo=nuxt&logoColor=00DC82" height="28">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" height="28">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28">
-  <img alt="Pinia" src="https://img.shields.io/badge/Pinia-0F172A?style=for-the-badge&logo=vuedotjs&logoColor=FFD859" height="28">
+  <img alt="Pinia" src="https://img.shields.io/badge/Pinia-0F172A?style=for-the-badge&logo=pinia&logoColor=FFD859" height="28">
   <img alt="PrimeVue" src="https://img.shields.io/badge/PrimeVue-0F172A?style=for-the-badge&logo=primevue&logoColor=41B883" height="28">
   <img alt="Quasar" src="https://img.shields.io/badge/Quasar-0F172A?style=for-the-badge&logo=quasar&logoColor=1976D2" height="28">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=646CFF" height="28">
@@ -50,10 +50,10 @@ I like software that is easy to understand, easy to test and hard to accidentall
   <img alt="HATEOAS" src="https://img.shields.io/badge/HATEOAS-0F172A?style=for-the-badge" height="28">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="28">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" height="28">
-  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-0F172A?style=for-the-badge&logo=odoo&logoColor=714B67" height="28">
+  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-0F172A?style=for-the-badge&logo=odoo&logoColor=FFFFFF" height="28">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge" height="28">
   <img alt="PL/SQL" src="https://img.shields.io/badge/PL%2FSQL-0F172A?style=for-the-badge" height="28">
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-0F172A?style=for-the-badge&logo=oracle&logoColor=F80000" height="28">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-0F172A?style=for-the-badge" height="28">
 </p>
 
 ### Testing & Quality
@@ -62,7 +62,7 @@ I like software that is easy to understand, easy to test and hard to accidentall
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-0F172A?style=for-the-badge&logo=vitest&logoColor=6E9F18" height="28">
   <img alt="Testing Library" src="https://img.shields.io/badge/Testing%20Library-0F172A?style=for-the-badge&logo=testinglibrary&logoColor=E33332" height="28">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-0F172A?style=for-the-badge&logo=jest&logoColor=C21325" height="28">
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=2EAD33" height="28">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge" height="28">
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-0F172A?style=for-the-badge&logo=cypress&logoColor=69D3A7" height="28">
   <img alt="pytest" src="https://img.shields.io/badge/pytest-0F172A?style=for-the-badge&logo=pytest&logoColor=0A9EDC" height="28">
   <img alt="TDD" src="https://img.shields.io/badge/TDD-0F172A?style=for-the-badge" height="28">
@@ -90,7 +90,7 @@ I like software that is easy to understand, easy to test and hard to accidentall
 
 <p>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF" height="28">
-  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" height="28">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-0F172A?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" height="28">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="28">
   <img alt="Git" src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" height="28">
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge" height="28">
@@ -98,7 +98,7 @@ I like software that is easy to understand, easy to test and hard to accidentall
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-0F172A?style=for-the-badge&logo=eslint&logoColor=4B32C3" height="28">
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-0F172A?style=for-the-badge&logo=prettier&logoColor=F7B93E" height="28">
   <img alt="Husky" src="https://img.shields.io/badge/Husky-0F172A?style=for-the-badge" height="28">
-  <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-0F172A?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" height="28">
+  <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-0F172A?style=for-the-badge&logo=sonarqubeserver&logoColor=4E9BCD" height="28">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" height="28">
   <img alt="macOS" src="https://img.shields.io/badge/macOS-0F172A?style=for-the-badge&logo=apple&logoColor=FFFFFF" height="28">
   <img alt="npm" src="https://img.shields.io/badge/npm-0F172A?style=for-the-badge&logo=npm&logoColor=CB3837" height="28">
@@ -108,12 +108,12 @@ I like software that is easy to understand, easy to test and hard to accidentall
 ### AI-assisted Development
 
 <p>
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-0F172A?style=for-the-badge&logo=anthropic&logoColor=D97757" height="28">
-  <img alt="Codex" src="https://img.shields.io/badge/Codex-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" height="28">
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF" height="28">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-0F172A?style=for-the-badge&logo=claude&logoColor=D97757" height="28">
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-0F172A?style=for-the-badge" height="28">
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge" height="28">
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-0F172A?style=for-the-badge&logo=cursor&logoColor=FFFFFF" height="28">
   <img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-0F172A?style=for-the-badge" height="28">
-  <img alt="CodeRabbit" src="https://img.shields.io/badge/CodeRabbit-0F172A?style=for-the-badge" height="28">
+  <img alt="CodeRabbit" src="https://img.shields.io/badge/CodeRabbit-0F172A?style=for-the-badge&logo=coderabbit&logoColor=FF570A" height="28">
   <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-0F172A?style=for-the-badge" height="28">
 </p>
 
